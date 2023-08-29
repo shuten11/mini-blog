@@ -1,0 +1,14 @@
+.container {
+ display: flex;
+ flex-wrap: wrap-reverse;
+ 
+}
+.item{
+    padding: 10px;
+}
+.posts {
+    flex:8;
+}
+.authors {
+    flex: 2;
+}
